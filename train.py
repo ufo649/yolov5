@@ -1,6 +1,6 @@
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 
-# hi~
+# hi~ how are u
 """
 Train a YOLOv5 model on a custom dataset.
 
